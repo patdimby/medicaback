@@ -1,0 +1,15 @@
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\bin\Debug\net9\Medica.Core.deps.json
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\bin\Debug\net9\Medica.Core.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\bin\Debug\net9\Medica.Core.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.AssemblyInfoInputs.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.AssemblyInfo.cs
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\refint\Medica.Core.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\ref\Medica.Core.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\bin\Debug\net9\Medica.SharedKernel.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\bin\Debug\net9\Medica.SharedKernel.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.Core.csproj.AssemblyReference.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Core\obj\Debug\net9\Medica.C.1474D301.Up2Date

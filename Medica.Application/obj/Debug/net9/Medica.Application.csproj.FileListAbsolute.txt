@@ -1,0 +1,17 @@
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Application.deps.json
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Application.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Application.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.AssemblyInfoInputs.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.AssemblyInfo.cs
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\refint\Medica.Application.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\ref\Medica.Application.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.csproj.AssemblyReference.cache
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Core.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.SharedKernel.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Core.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.SharedKernel.pdb
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.A.72CE2622.Up2Date

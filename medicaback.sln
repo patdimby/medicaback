@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.Infrastructure", "Medica.Infrastructure\Medica.Infrastructure.csproj", "{115DED89-5654-4149-882D-DEA379BD5477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.Core", "Medica.Core\Medica.Core.csproj", "{9BFAF50A-DAF3-43C1-BF07-8994799160A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.Application", "Medica.Application\Medica.Application.csproj", "{212B8E06-0D24-415F-845E-3ACC7AB47E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.API", "Medica.API\Medica.API.csproj", "{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.Tests", "Medica.Tests\Medica.Tests.csproj", "{EC31712E-6743-4A45-9365-2984E74C8E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medica.SharedKernel", "Medica.SharedKernel\Medica.SharedKernel.csproj", "{F15AEDCA-8F13-4EE9-869F-8B68D85B224E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115DED89-5654-4149-882D-DEA379BD5477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115DED89-5654-4149-882D-DEA379BD5477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115DED89-5654-4149-882D-DEA379BD5477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115DED89-5654-4149-882D-DEA379BD5477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFAF50A-DAF3-43C1-BF07-8994799160A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFAF50A-DAF3-43C1-BF07-8994799160A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFAF50A-DAF3-43C1-BF07-8994799160A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFAF50A-DAF3-43C1-BF07-8994799160A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212B8E06-0D24-415F-845E-3ACC7AB47E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212B8E06-0D24-415F-845E-3ACC7AB47E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212B8E06-0D24-415F-845E-3ACC7AB47E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212B8E06-0D24-415F-845E-3ACC7AB47E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC31712E-6743-4A45-9365-2984E74C8E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC31712E-6743-4A45-9365-2984E74C8E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC31712E-6743-4A45-9365-2984E74C8E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC31712E-6743-4A45-9365-2984E74C8E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15AEDCA-8F13-4EE9-869F-8B68D85B224E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15AEDCA-8F13-4EE9-869F-8B68D85B224E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15AEDCA-8F13-4EE9-869F-8B68D85B224E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15AEDCA-8F13-4EE9-869F-8B68D85B224E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {465304B0-6227-45C1-AB83-2B7BC6DAC816}
+	EndGlobalSection
+EndGlobal

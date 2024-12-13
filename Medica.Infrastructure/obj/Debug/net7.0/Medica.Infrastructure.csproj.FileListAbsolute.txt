@@ -1,0 +1,14 @@
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net7.0\Medica.Infrastructure.deps.json
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net7.0\Medica.Infrastructure.dll
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net7.0\Medica.Infrastructure.pdb
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.AssemblyInfoInputs.cache
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.AssemblyInfo.cs
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.csproj.CoreCompileInputs.cache
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.dll
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\refint\Medica.Infrastructure.dll
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.pdb
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\ref\Medica.Infrastructure.dll
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net7.0\Medica.Infrastructure.runtimeconfig.json
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.csproj.AssemblyReference.cache
+E:\codes\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net7.0\Medica.Infrastructure.genruntimeconfig.cache

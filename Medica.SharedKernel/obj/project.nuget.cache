@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GknoW9Em7SU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.SharedKernel\\Medica.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimbisoa\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\Dimbisoa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dimbisoa\\.nuget\\packages\\sonaranalyzer.csharp\\10.3.0.106239\\sonaranalyzer.csharp.10.3.0.106239.nupkg.sha512"
+  ],
+  "logs": []
+}

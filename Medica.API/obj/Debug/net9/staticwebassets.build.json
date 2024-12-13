@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ofQOrJ3cKlStOesgqnVRZTKPwZAwHmnKzfAW9Z4D6v4=",
+  "Source": "Medica.API",
+  "BasePath": "_content/Medica.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Medica.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+E:\codes\MEDICATION\medicaback\Medica.Core\bin\Debug\net7.0\Medica.Core.deps.json
+E:\codes\MEDICATION\medicaback\Medica.Core\bin\Debug\net7.0\Medica.Core.dll
+E:\codes\MEDICATION\medicaback\Medica.Core\bin\Debug\net7.0\Medica.Core.pdb
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.AssemblyInfoInputs.cache
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.AssemblyInfo.cs
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.csproj.CoreCompileInputs.cache
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.dll
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\refint\Medica.Core.dll
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\Medica.Core.pdb
+E:\codes\MEDICATION\medicaback\Medica.Core\obj\Debug\net7.0\ref\Medica.Core.dll
