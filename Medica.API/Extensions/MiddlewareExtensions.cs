@@ -1,4 +1,4 @@
-﻿using Web.Api.Middleware;
+﻿using Medica.API.Middleware;
 
 namespace Medica.API.Extensions;
 

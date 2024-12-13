@@ -24,4 +24,9 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Medica.Core\Medica.Core.csproj" />
+      <ProjectReference Include="..\Medica.Infrastructure\Medica.Infrastructure.csproj" />
+    </ItemGroup>
+
 </Project>

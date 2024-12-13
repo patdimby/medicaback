@@ -1,10 +1,10 @@
 ﻿using System.Reflection;
-using Medica.Application.Abstractions.Messaging;
-using Medica.Domains;
+using System.Windows.Input;
+using Medica.Core.Domains;
 using Medica.Infrastructure.Database;
-using Medica.Api;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
 
-namespace ArchitectureTests;
+namespace Medica.Tests;
 
 public abstract class BaseTest
 {

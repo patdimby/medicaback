@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using NetArchTest.Rules;
 
-namespace ArchitectureTests.Layers;
+namespace Medica.Tests.Layers;
 
 public class LayerTests : BaseTest
 {

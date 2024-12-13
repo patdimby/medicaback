@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Primitives;
 using Serilog.Context;
 
-namespace Web.Api.Middleware;
+namespace Medica.API.Middleware;
 
 public class RequestContextLoggingMiddleware(RequestDelegate next)
 {
