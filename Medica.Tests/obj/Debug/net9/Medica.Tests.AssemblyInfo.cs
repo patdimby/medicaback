@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Medica.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1151675aae80ddd3ec2b28a5fec94292f2deebe9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef1c4c8c69483626822b7d02413c7e39aad9dfda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Medica.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Medica.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

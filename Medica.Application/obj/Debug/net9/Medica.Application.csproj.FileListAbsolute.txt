@@ -15,3 +15,4 @@ C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.Core.pdb
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\bin\Debug\net9\Medica.SharedKernel.pdb
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.A.72CE2622.Up2Date
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Application\obj\Debug\net9\Medica.Application.sourcelink.json

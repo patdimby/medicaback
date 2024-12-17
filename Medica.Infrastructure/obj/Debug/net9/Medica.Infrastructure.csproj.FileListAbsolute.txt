@@ -19,3 +19,4 @@ C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Infrastructure\b
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net9\Medica.Core.pdb
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Infrastructure\bin\Debug\net9\Medica.SharedKernel.pdb
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net9\Medica.I.3142AB88.Up2Date
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.Infrastructure\obj\Debug\net9\Medica.Infrastructure.sourcelink.json

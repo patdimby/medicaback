@@ -22,3 +22,4 @@ C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.SharedKernel\obj
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.SharedKernel\obj\Debug\net9.0\refint\Medica.SharedKernel.dll
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.SharedKernel\obj\Debug\net9.0\Medica.SharedKernel.pdb
 C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.SharedKernel\obj\Debug\net9.0\ref\Medica.SharedKernel.dll
+C:\Users\Dimbisoa\Documents\GitHub\MEDICATION\medicaback\Medica.SharedKernel\obj\Debug\net9.0\Medica.SharedKernel.sourcelink.json

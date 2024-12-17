@@ -13,7 +13,6 @@
         "packagesPath": "C:\\Users\\Dimbisoa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -91,7 +91,6 @@
         "packagesPath": "C:\\Users\\Dimbisoa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -125,7 +124,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {

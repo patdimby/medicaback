@@ -13,12 +13,12 @@ builder.Host.UseSerilog((context, loggerConfig) => loggerConfig.ReadFrom.Configu
 
 builder.Services.AddControllers();
 
+builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services
     .AddApplication()
     .AddInfrastructure(builder.Configuration);
-//.AddPresentation();
 
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 /* Avoid requiring ProblemDetailsService when IExceptionHandler is used */
@@ -38,7 +38,9 @@ app.MapEndpoints();
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwaggerWithUi();
+    app.UseSwagger();
+
+    app.UseSwaggerUI(opt => { opt.SwaggerEndpoint("/swagger/v1/swagger.json", "Medica.Api"); });
 
     app.ApplyMigrations();
 }
@@ -61,4 +63,4 @@ app.UseAuthorization();
 // REMARK: If you want to use Controllers, you'll need this.
 app.MapControllers();
 
-app.Run();
+await app.RunAsync();
