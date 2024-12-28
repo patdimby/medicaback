@@ -7,14 +7,19 @@ using Medica.Infrastructure;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Serilog;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Host.UseSerilog((context, loggerConfig) => loggerConfig.ReadFrom.Configuration(context.Configuration));
 
 builder.Services.AddControllers();
 
+builder.Services.AddEndpoints(Assembly.GetExecutingAssembly());
+
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
+// avoid error : Could not resolve reference: Could not resolve pointer:
+builder.Services.AddSwaggerGen(c =>  c.CustomSchemaIds(s => s.FullName.Replace("+", ".")));
 
 builder.Services
     .AddApplication()

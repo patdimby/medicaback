@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\extensions\\endpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\extensions\\endpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\endpoints\\iendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\endpoints\\iendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\endpoints\\todos\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\endpoints\\todos\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\endpoints\\todos\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\endpoints\\todos\\complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\endpoints\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\endpoints\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|c:\\users\\dimbisoa\\documents\\github\\medication\\medicaback\\medica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DB2E3D9-7EC6-4CBF-83F6-B3F594D23429}|Medica.API\\Medica.API.csproj|solutionrelative:medica.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +66,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Medica.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Medica.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T08:17:24.173Z",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Medica.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:59:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "Medica.API\\Extensions\\ResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:59:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "Medica.API\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:59:04.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EndpointExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\EndpointExtensions.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Extensions\\EndpointExtensions.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\EndpointExtensions.cs",
+              "RelativeToolTip": "Medica.API\\Extensions\\EndpointExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:57:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Program.cs",
               "RelativeDocumentMoniker": "Medica.API\\Program.cs",
               "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Program.cs",
               "RelativeToolTip": "Medica.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T15:13:39.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Extensions\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "Medica.API\\Extensions\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:58:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Todos\\Create.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Endpoints\\Todos\\Create.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Todos\\Create.cs",
+              "RelativeToolTip": "Medica.API\\Endpoints\\Todos\\Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:53:12.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Complete.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Todos\\Complete.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Endpoints\\Todos\\Complete.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Todos\\Complete.cs",
+              "RelativeToolTip": "Medica.API\\Endpoints\\Todos\\Complete.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:52:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Tags.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Endpoints\\Tags.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\Tags.cs",
+              "RelativeToolTip": "Medica.API\\Endpoints\\Tags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:52:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\IEndpoint.cs",
+              "RelativeDocumentMoniker": "Medica.API\\Endpoints\\IEndpoint.cs",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Endpoints\\IEndpoint.cs",
+              "RelativeToolTip": "Medica.API\\Endpoints\\IEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:52:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Medica.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Medica.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T13:51:02.878Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/XyAeM5AqFo=",
+  "dgSpecHash": "0MZcVCiZqeM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dimbisoa\\Documents\\GitHub\\MEDICATION\\medicaback\\Medica.API\\Medica.API.csproj",
   "expectedPackageFiles": [
@@ -88,6 +88,7 @@
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.2\\npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.sha512",
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dimbisoa\\.nuget\\packages\\scalar.aspnetcore\\1.2.72\\scalar.aspnetcore.1.2.72.nupkg.sha512",
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\serilog.aspnetcore\\9.0.0\\serilog.aspnetcore.9.0.0.nupkg.sha512",
     "C:\\Users\\Dimbisoa\\.nuget\\packages\\serilog.extensions.hosting\\9.0.0\\serilog.extensions.hosting.9.0.0.nupkg.sha512",

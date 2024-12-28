@@ -1592,6 +1592,22 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Scalar.AspNetCore/1.2.72": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Serilog/4.2.0": {
         "type": "package",
         "compile": {
@@ -5670,6 +5686,23 @@
         "runtime.native.system.nuspec"
       ]
     },
+    "Scalar.AspNetCore/1.2.72": {
+      "sha512": "NAixkOqsJN8dcKAelA1jfHhTsDIn5EV4uopzwfJMsCjjRbbp4CY4FF+wwLRbFnt5dr0ZBqXDUN7NCNhfnDvfQA==",
+      "type": "package",
+      "path": "scalar.aspnetcore/1.2.72",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.1.2.72.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "Serilog/4.2.0": {
       "sha512": "gmoWVOvKgbME8TYR+gwMf7osROiWAURterc6Rt2dQyX7wtjZYpqFiA/pY6ztjGQKKV62GGCyOcmtP1UKMHgSmA==",
       "type": "package",
@@ -8275,6 +8308,7 @@
       "Microsoft.Extensions.Diagnostics.HealthChecks >= 9.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
       "Newtonsoft.Json >= 13.0.3",
+      "Scalar.AspNetCore >= 1.2.72",
       "Serilog.AspNetCore >= 9.0.0",
       "Serilog.Sinks.Seq >= 8.0.0",
       "Swashbuckle.AspNetCore >= 7.2.0",
@@ -8400,6 +8434,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.3, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[1.2.72, )"
           },
           "Serilog.AspNetCore": {
             "target": "Package",
