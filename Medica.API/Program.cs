@@ -29,10 +29,7 @@ builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 /* Avoid requiring ProblemDetailsService when IExceptionHandler is used */
 builder.Services.AddProblemDetails(options =>
 {
-    options.CustomizeProblemDetails = context =>
-    {
-       //
-	};
+    options.CustomizeProblemDetails = context =>   { };
 });
 
 builder.Services.AddEndpoints(Assembly.GetExecutingAssembly());
